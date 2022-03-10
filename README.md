@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Howdy 👋
+Hello! My name is Gage and i love programming and everything about computers. My interest in programming started back in 2018 when i started playing and finding cheats for games on my tablets. - turns out hacking and coding is something ive become great at.
+
+My Values
+😎 Expression as authentic self.
+📙 Beginner's mindset and curiosity
+🔗 Shared understanding and consensus
