@@ -23,3 +23,5 @@ My Values
 🔗 Shared understanding and consensus
 
 ![Gage's GitHub stats](https://github-readme-stats.vercel.app/api?username=GageCover&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GageCover&layout=compact)](https://github.com/GageCover/github-readme-stats)
