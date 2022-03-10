@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <!--
 **GageCover/GageCover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Howdy 👋
 Hello! My name is Gage and i love programming and everything about computers. My interest in programming started back in 2018 when i started playing and finding cheats for games on my various. - turns out hacking and coding is something ive become great at.
 
 My Values
