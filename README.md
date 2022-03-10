@@ -27,3 +27,5 @@ My Values
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GageCover&layout=compact)](https://github.com/GageCover/github-readme-stats)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=GageCover&theme=dracula&hide_border=true&area=true)
+
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/ad87481b9b45d8b1d78134d393dace84897e3025.svg "Repobeats analytics image") -->
