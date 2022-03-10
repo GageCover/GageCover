@@ -22,4 +22,4 @@ My Values
 📙 Beginner's mindset and curiosity
 🔗 Shared understanding and consensus
 
-! https://github-readme-stats.vercel.app/api?username=GageCover&theme=radical)
+https://github-readme-stats.vercel.app/api?username=GageCover&theme=radical)
