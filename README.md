@@ -19,7 +19,6 @@ Hello! My name is Gage and i love programming and everything about computers. My
 My Values
 😎 Expression as authentic self.
 📙 Beginner's mindset and curiosity
-🔗 Shared understanding and consensus
 
 ![Gage's GitHub stats](https://github-readme-stats.vercel.app/api?username=GageCover&show_icons=true&theme=radical)
 
