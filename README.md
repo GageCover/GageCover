@@ -20,6 +20,8 @@ My Values
 😎 Expression as authentic self.
 📙 Beginner's mindset and curiosity
 
+![My Discord Server] (https://discord.gg/m2DeZAD9st)
+
 ![Gage's GitHub stats](https://github-readme-stats.vercel.app/api?username=GageCover&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GageCover&layout=compact)](https://github.com/GageCover/github-readme-stats)
